@@ -1,0 +1,52 @@
+{
+	"name": "spacebox-fleet-theme",
+	"displayName": "SpaceBox Fleet Theme",
+	"description": "A sleek, professional dark theme for VS Code with custom icons. Inspired by JetBrains Fleet and Windows 11 Fluent Design.",
+	"publisher": "SpaceBox",
+	"license": "MIT",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"dark",
+		"dark theme",
+		"purple",
+		"blue",
+		"dark",
+		"github",
+        "fleet",
+		"spacebox",
+		"fluent",
+		"windows 11"
+	],
+	"galleryBanner": {
+		"color": "#0d1116",
+		"theme": "dark"
+	},
+	"icon": "images/icon.png",
+	"pricing": "Free",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/amnweb/SpaceBox-Fleet-Theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "SpaceBox Fleet",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SpaceBox-fleet-theme.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "spacebox.file-icon-theme",
+				"label": "SpaceBox File Icon",
+				"path": "./icons/SpaceBox-icon-theme.json"
+			}
+		]
+	}
+}
