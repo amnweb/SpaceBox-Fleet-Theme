@@ -43,19 +43,22 @@
 		"diffEditor.diagonalFill": "#00000000",
 		"diffEditor.unchangedRegionShadow": "#00000000",
 		"diffEditor.unchangedCodeBackground": "#00000000",
+        "dropdown.background": "#252629",
+        "dropdown.border": "#404245",
+        "dropdown.foreground": "#d7dce4",
 		"multiDiffEditor.headerBackground": "#252629",
 		"multiDiffEditor.background": "#18191b",
 		"git.blame.editorDecorationForeground": "#666b74",
 		"gitDecoration.modifiedResourceForeground": "#4699ff",
 		"gitDecoration.addedResourceForeground": "#5de4b0",
-		"list.warningForeground": "#ffbd7a",
+		"list.warningForeground": "#e2bc10",
 		"list.errorForeground": "#ff6c7f",
 		"editor.background": "#18191b",
 		"editor.findMatchBackground": "#af92e734",
 		"editor.findMatchHighlightBackground": "#af92e734",
 		"editor.foreground": "#dddfe0",
 		"editor.hoverHighlightBackground": "#00000000",
-		"editor.inactiveSelectionBackground": "#af92e734",
+		"editor.inactiveSelectionBackground": "#2e303afe",
 		"editor.lineHighlightBorder": "#232c3f",
 		"editor.linkedEditingBackground": "#92e79d34",
 		"editor.selectionBackground": "#2e303a",
@@ -116,7 +119,7 @@
 		"editorSuggestWidget.selectedIconForeground": "#ffffff",
 		"editorSuggestWidgetStatus.foreground": "#d7dce4",
 		"editorWidget.background": "#252629",
-		"editorWidget.border": "#404245",
+		"editorWidget.border": "#252629",
 		"errorForeground": "#ff6c7f",
 		"extensionBadge.remoteBackground": "#356bff",
 		"extensionBadge.remoteForeground": "#ffffff",
@@ -125,6 +128,7 @@
 		"icon.foreground": "#82878d",
 		"input.background": "#252629",
 		"input.border": "#404245",
+        "input.foreground": "#d7dce4",
 		"inputOption.activeBorder": "#343e4e",
 		"inlineChat.background": "#303030",
 		"inlineChat.shadow": "#000000",
@@ -358,7 +362,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#34c38f"
+				"foreground": "#1ed190"
 			}
 		},
 		{
@@ -460,7 +464,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#34c38f"
+				"foreground": "#1ed190"
 			}
 		},
 		{
@@ -472,7 +476,7 @@
 				"keyword.other.unit.px.css"
 			],
 			"settings": {
-				"foreground": "#34c38f"
+				"foreground": "#1ed190"
 			}
 		},
 		{
