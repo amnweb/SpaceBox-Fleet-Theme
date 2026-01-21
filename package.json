@@ -4,7 +4,7 @@
 	"description": "A sleek, professional dark theme for VS Code with custom icons. Inspired by JetBrains Fleet and Windows 11 Fluent Design.",
 	"publisher": "SpaceBox",
 	"license": "MIT",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "*"
 	},
@@ -46,6 +46,11 @@
 				"id": "spacebox.file-icon-theme",
 				"label": "SpaceBox File Icon",
 				"path": "./icons/SpaceBox-icon-theme.json"
+			},
+			{
+				"id": "spacebox.file-icon-theme-no-arrows",
+				"label": "SpaceBox File Icon (No Arrows)",
+				"path": "./icons/SpaceBox-icon-theme-no-arrows.json"
 			}
 		]
 	}
